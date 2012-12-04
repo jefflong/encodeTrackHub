@@ -1,5 +1,5 @@
 hub transcript_promoters
 shortLabel ucsc_promoters
 longLabel ucsc_promoters_for_all_transcripts
-genomesFile /cluster/home/jlong/myHub/genomes.txt 
+genomesFile genomes.txt
 email jefflong@stanford.edu
