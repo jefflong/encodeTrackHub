@@ -6,7 +6,7 @@ This is a repository for files used to make a track hub for viewing in the the U
 
 Here are some helpful links:
 
-Track Hub Help
+Track Hub Help ||
 http://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html
 
 UCSC Genome Browser
