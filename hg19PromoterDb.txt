@@ -1,0 +1,5 @@
+track ucscPromoters
+bigDataUrl hg18/2000bpPromotersHg19sorted.bb
+shortLabel ucsc_promoters_hg19
+longLabel ucsc_promoters_for_hg19_all_transcripts
+type bigBed
