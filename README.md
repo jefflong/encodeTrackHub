@@ -8,7 +8,6 @@ Here are some helpful links:
 
   Track Hub Help 
   http://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html
-
   UCSC Genome Browser
   http://genome.ucsc.edu/cgi-bin/hgGateway
 
